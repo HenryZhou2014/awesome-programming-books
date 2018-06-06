@@ -251,3 +251,4 @@
 *   《[黑客与画家 : 来自计算机时代的高见](https://www.amazon.cn/gp/product/B00G1ZT2C0/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00G1ZT2C0&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[软件随想录（卷1）](https://www.amazon.cn/gp/product/B00WDTQU8M/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00WDTQU8M&amp;linkCode=as2&amp;tag=vastwork-23)》《[软件随想录（卷2）](https://www.amazon.cn/gp/product/B00WFT32FY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00WFT32FY&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[如何把事情做到最好：改变全球9800万人的人生指导书](https://www.amazon.cn/gp/product/B00ICWNKT6/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00ICWNKT6&amp;linkCode=as2&amp;tag=vastwork-23)》
+test
